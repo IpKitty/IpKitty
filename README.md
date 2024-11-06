@@ -1,6 +1,6 @@
 
 # hello! I'm @Ipkitty
-- currently learning beginner python + beginner pentesting
+- currently learning beginner python, java, C + beginner pentesting
 - bit of a tech fanatic
 - learning new skills from scratch 🥳
 
